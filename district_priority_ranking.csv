@@ -1,0 +1,707 @@
+District Names,State/UT,predicted_stunting,priority_tier
+Araria ,Bihar,48.74821398491621,High
+Bijapur ,Chhattisgarh,48.65983868462,High
+Sitapur ,Uttar Pradesh,47.92103813199887,High
+Madhepura ,Bihar,47.824208913226165,High
+Pashchimi Singhbhum ,Jharkhand,47.7992819215507,High
+Purnia ,Bihar,46.91279980459714,High
+Bahraich ,Uttar Pradesh,46.87503113245755,High
+Sukma ,Chhattisgarh,46.868913707549844,High
+Yadgir ,Karnataka,46.51910387228477,High
+Narmada ,Gujarat,46.16924406529133,High
+Fatehpur ,Uttar Pradesh,46.14733154058129,High
+Nawada ,Bihar,46.09182350031622,High
+Budaun ,Uttar Pradesh,45.989309062627164,High
+Chhota Udaipur ,Gujarat,45.853117982493266,High
+Sheikhpura ,Bihar,45.795294947811634,High
+Saharsa ,Bihar,45.73985728023819,High
+Pakur ,Jharkhand,45.608019274051976,High
+Shrawasti ,Uttar Pradesh,45.58530325335203,High
+Etah ,Uttar Pradesh,45.51692070989823,High
+Sambhal ,Uttar Pradesh,45.496842342472064,High
+Hardoi ,Uttar Pradesh,45.493860371645454,High
+Farrukhabad ,Uttar Pradesh,45.468597059081574,High
+Shahjahanpur ,Uttar Pradesh,45.42066020467279,High
+Sahibganj ,Jharkhand,45.389524669080075,High
+Banka ,Bihar,45.16070639328651,High
+Malkangiri ,Odisha,45.069180553658754,High
+Kheri ,Uttar Pradesh,45.04474647823449,High
+Arwal ,Bihar,44.966032044530714,High
+Chitrakoot ,Uttar Pradesh,44.9452186889935,High
+Aravali ,Gujarat,44.87019068277771,High
+Banda ,Uttar Pradesh,44.74085136939487,High
+Bastar ,Chhattisgarh,44.693316572019654,High
+Nabarangapur ,Odisha,44.66557470737925,High
+West Khasi Hills ,Meghalaya,44.64415255826549,High
+Gaya ,Bihar,44.63262426803396,High
+Kishanganj ,Bihar,44.55709804172346,High
+Jamui ,Bihar,44.518406105387406,High
+South West Khasi Hills ,Meghalaya,44.486881347982106,High
+Sheopur ,Madhya Pradesh,44.4642916824397,High
+Sitamarhi ,Bihar,44.43930380596154,High
+Supaul ,Bihar,44.297780982447314,High
+Madhubani ,Bihar,44.10702615213931,High
+Lalitpur ,Uttar Pradesh,44.05754068854876,High
+Garhwa ,Jharkhand,43.94337536014332,High
+Mahisagar ,Gujarat,43.93049759067907,High
+Deoghar ,Jharkhand,43.80311379207964,High
+Vaishali ,Bihar,43.8011923808879,High
+Dohad ,Gujarat,43.78862921170778,High
+Kannauj ,Uttar Pradesh,43.78512811972815,High
+Nuapada ,Odisha,43.771845817368174,High
+Nandurbar ,Maharastra,43.68708678620789,High
+Kheda ,Gujarat,43.65063047516651,High
+Gonda ,Uttar Pradesh,43.552678585298665,High
+Patan ,Gujarat,43.519086020663465,High
+Hamirpur ,Uttar Pradesh,43.48283351447148,High
+Bundi ,Rajasthan,43.40334053408988,High
+Lakhisarai ,Bihar,43.31215600840379,High
+Balrampur ,Uttar Pradesh,43.268831714964065,High
+Firozabad ,Uttar Pradesh,43.17484915589722,High
+Dhaulpur ,Rajasthan,43.14482126775214,High
+Samastipur ,Bihar,43.03779206362712,High
+Jhabua ,Madhya Pradesh,43.035228062551994,High
+Nalanda ,Bihar,43.0310946063201,High
+Katihar ,Bihar,43.000127241904565,High
+Bara Banki ,Uttar Pradesh,42.96049539946032,High
+Rae Bareli ,Uttar Pradesh,42.9279072101577,High
+Panch Mahals ,Gujarat,42.90092815672694,High
+Dhubri ,Assam,42.78756536703158,High
+Pashchim Champaran ,Bihar,42.78455941890017,High
+Jehanabad ,Bihar,42.67783216533036,High
+Darbhanga ,Bihar,42.63447351768017,High
+Kanshiram Nagar ,Uttar Pradesh,42.52930323066972,High
+Kaushambi ,Uttar Pradesh,42.28274746875432,High
+Jamtara ,Jharkhand,42.27273601613294,High
+Jogulamba Gadwal ,Telangana,42.2460339730753,High
+Koraput ,Odisha,42.235629552834816,High
+Palamu ,Jharkhand,42.23393297312563,High
+Muzaffarpur ,Bihar,42.11278036363615,High
+Saran ,Bihar,42.064827935306624,High
+Aurangabad ,Bihar,42.051849522214525,High
+Koppal ,Karnataka,42.04767105516242,High
+Barwani ,Madhya Pradesh,42.036269639013696,High
+Kaimur (Bhabua) ,Bihar,41.97753473658426,High
+Bhagalpur ,Bihar,41.96905341198417,High
+Bhojpur ,Bihar,41.89660431411065,High
+Dumka ,Jharkhand,41.829390727011635,High
+Banas Kantha ,Gujarat,41.741925116174414,High
+Purba Champaran ,Bihar,41.65603744010805,High
+Bareilly ,Uttar Pradesh,41.64693376658581,High
+West Jaintia Hills ,Meghalaya,41.6197514651315,High
+Chatra ,Jharkhand,41.599046724229346,High
+Puruliya ,West Bengal,41.55399144242382,High
+Siddharthnagar ,Uttar Pradesh,41.488785233623084,High
+Darrang ,Assam,41.261002218477,High
+Chhatarpur ,Madhya Pradesh,41.17077620117595,High
+Banswara ,Rajasthan,41.1410362855667,High
+Dantewada ,Chhattisgarh,41.11860636389456,High
+Bharatpur ,Rajasthan,41.06862703213888,High
+Baran ,Rajasthan,40.973415308392035,High
+Latehar ,Jharkhand,40.9621353395157,High
+Ribhoi ,Meghalaya,40.94411437189355,High
+Adilabad ,Telangana,40.83864895860907,High
+Tapi ,Gujarat,40.83314832563573,High
+Satna ,Madhya Pradesh,40.82669137379739,High
+Bijapur ,Karnataka,40.82451440846907,High
+Rayagada ,Odisha,40.6972181903225,High
+Khowai ,Tripura,40.513936597234206,High
+Khagaria ,Bihar,40.493039461032424,High
+Karauli ,Rajasthan,40.38181924997397,High
+Mathura ,Uttar Pradesh,40.23380686540503,High
+Buxar ,Bihar,40.21757082441777,High
+Panna ,Madhya Pradesh,40.09692549606315,High
+Dadra & Nagar Haveli ,Dadra and Nagar Haveli & Daman and Diu,40.049316362835256,High
+The Dangs ,Gujarat,39.974374963840326,Medium
+Etawah ,Uttar Pradesh,39.953554411924976,Medium
+Siwan ,Bihar,39.93173405837176,Medium
+Unnao ,Uttar Pradesh,39.92950384615005,Medium
+Raichur ,Karnataka,39.91586286480953,Medium
+Anand ,Gujarat,39.904806331842394,Medium
+Bharuch ,Gujarat,39.810166077881625,Medium
+Kodagaon ,Chhattisgarh,39.74909038945169,Medium
+Sidhi ,Madhya Pradesh,39.72393989739691,Medium
+Godda ,Jharkhand,39.67384035295925,Medium
+Kanpur Dehat ,Uttar Pradesh,39.61431274469793,Medium
+Mewat ,Haryana,39.46521525865691,Medium
+Jyotiba Phule Nagar ,Uttar Pradesh,39.413167030283745,Medium
+Biswanath ,Assam,39.361653449903194,Medium
+Sant Ravidas Nagar (Bhadohi) ,Uttar Pradesh,39.29175338117923,Medium
+Mahoba ,Uttar Pradesh,39.144581114607654,Medium
+Bagalkot ,Karnataka,39.05694736322272,Medium
+Komaram Bheem Asifabad ,Telangana,39.009768203538265,Medium
+West Karbi Anglong ,Assam,39.00583617091215,Medium
+Simdega ,Jharkhand,39.00431542124383,Medium
+Damoh ,Madhya Pradesh,38.93341123988798,Medium
+Kachchh ,Gujarat,38.921240792563616,Medium
+Begusarai ,Bihar,38.8375754229001,Medium
+Jalor ,Rajasthan,38.83420281128959,Medium
+Shahdol ,Madhya Pradesh,38.77322612747566,Medium
+Sonbhadra ,Uttar Pradesh,38.74045870907347,Medium
+Ballia ,Uttar Pradesh,38.72592180392525,Medium
+Hailakandi ,Assam,38.700491487763294,Medium
+Sonitpur ,Assam,38.683939414656514,Medium
+Gopalganj ,Bihar,38.623603217549785,Medium
+Mayurbhanj ,Odisha,38.58798963539566,Medium
+Dungarpur ,Rajasthan,38.5342095763976,Medium
+Sheohar ,Bihar,38.53294859600629,Medium
+Pilibhit ,Uttar Pradesh,38.48709475945436,Medium
+Mahamaya Nagar ,Uttar Pradesh,38.47901726304178,Medium
+Kodarma ,Jharkhand,38.366385667583216,Medium
+Jhansi ,Uttar Pradesh,38.35837187303965,Medium
+Hojai ,Assam,38.35265595409802,Medium
+Giridih ,Jharkhand,38.33420498911045,Medium
+Sagar ,Madhya Pradesh,38.302340384482854,Medium
+Morena ,Madhya Pradesh,38.26554335978745,Medium
+Amethi ,Uttar Pradesh,38.2316773951009,Medium
+Gajapati ,Odisha,38.21584673540776,Medium
+Mirzapur ,Uttar Pradesh,38.210425162838504,Medium
+Mainpuri ,Uttar Pradesh,38.19825658615687,Medium
+Balaghat ,Madhya Pradesh,38.16221242451741,Medium
+Kurnool ,Andhra Pradesh,38.04900498909883,Medium
+Lohardaga ,Jharkhand,38.048853213872924,Medium
+Surajpur ,Chhattisgarh,38.0200440369259,Medium
+Sabar Kantha ,Gujarat,38.01994296394554,Medium
+Hazaribagh ,Jharkhand,37.9921946677984,Medium
+Bikaner ,Rajasthan,37.96935126733453,Medium
+Nashik ,Maharastra,37.9313828037296,Medium
+Bankura ,West Bengal,37.864629394222376,Medium
+Latur ,Maharastra,37.79990027547944,Medium
+Shivpuri ,Madhya Pradesh,37.787467563630955,Medium
+Gir Somnath ,Gujarat,37.74018984915647,Medium
+Dhule ,Maharastra,37.73772739173126,Medium
+Auraiya ,Uttar Pradesh,37.71916423899389,Medium
+Khunti ,Jharkhand,37.67385892153101,Medium
+Udaipur ,Rajasthan,37.65120715175308,Medium
+Gumla ,Jharkhand,37.635299814098104,Medium
+Chandauli ,Uttar Pradesh,37.62333072263175,Medium
+Parbhani ,Maharastra,37.56436723221686,Medium
+Ghazipur ,Uttar Pradesh,37.5601979317741,Medium
+Pratapgarh ,Uttar Pradesh,37.55272310414424,Medium
+Balrampur ,Chhattisgarh,37.55210765501643,Medium
+Mahrajganj ,Uttar Pradesh,37.54811244384735,Medium
+Alirajpur ,Madhya Pradesh,37.53408964634511,Medium
+Kushinagar ,Uttar Pradesh,37.52884925436129,Medium
+Dindori ,Madhya Pradesh,37.52410242896331,Medium
+Mon ,Nagaland,37.42691861321217,Medium
+Agar Malwa ,Madhya Pradesh,37.422889731618646,Medium
+Allahabad ,Uttar Pradesh,37.39406888739801,Medium
+Narayanpur ,Chhattisgarh,37.38810230991061,Medium
+Buldana ,Maharastra,37.3434859168731,Medium
+Sant Kabir Nagar ,Uttar Pradesh,37.3363014555253,Medium
+Kiphire ,Nagaland,37.32614509533727,Medium
+Jaunpur ,Uttar Pradesh,37.290665902797485,Medium
+Gulbarga ,Karnataka,37.27512974047305,Medium
+Nagaon ,Assam,37.264423891768736,Medium
+Charaideo ,Assam,37.244645299626455,Medium
+Singrauli ,Madhya Pradesh,37.17663533469828,Medium
+Jalgaon ,Maharastra,37.17080546110687,Medium
+Surendranagar ,Gujarat,37.16069759663125,Medium
+Vadodara ,Gujarat,37.15254192671303,Medium
+Yavatmal ,Maharastra,37.13712911647754,Medium
+Jalaun ,Uttar Pradesh,37.09374207790335,Medium
+Bid ,Maharastra,37.06691700357601,Medium
+Zunheboto ,Nagaland,37.046977402191644,Medium
+Mahabubnagar ,Telangana,37.01916370296326,Medium
+Baudh ,Odisha,37.01211242781293,Medium
+Jorhat ,Assam,36.98104534982734,Medium
+Kendujhar ,Odisha,36.9803335956871,Medium
+Rohtas ,Bihar,36.96405241898299,Medium
+Burhanpur ,Madhya Pradesh,36.95328904376558,Medium
+Rewa ,Madhya Pradesh,36.945909711585884,Medium
+Alwar ,Rajasthan,36.898263509962,Medium
+Bidar ,Karnataka,36.84713415770068,Medium
+Katni ,Madhya Pradesh,36.84704173014322,Medium
+Munger ,Bihar,36.80184238326471,Medium
+Unakoti ,Tripura,36.790086017006395,Medium
+Lakhimpur ,Assam,36.744999037237385,Medium
+Jalna ,Maharastra,36.72394631816272,Medium
+Hoshangabad ,Madhya Pradesh,36.625335632215744,Medium
+Jabalpur ,Madhya Pradesh,36.611302953430965,Medium
+Aligarh ,Uttar Pradesh,36.558428311763805,Medium
+Nanded ,Maharastra,36.51740756957538,Medium
+Mandsaur ,Madhya Pradesh,36.51471435182929,Medium
+Wanaparthy ,Telangana,36.47893688684491,Medium
+Birbhum ,West Bengal,36.46471556677257,Medium
+Hingoli ,Maharastra,36.36105811573261,Medium
+Saraikela-Kharsawan ,Jharkhand,36.358285227493646,Medium
+Chhindwara ,Madhya Pradesh,36.35822485985168,Medium
+Bargarh ,Odisha,36.32429176524747,Medium
+South Salmara Mancachar ,Assam,36.28166297072809,Medium
+Basti ,Uttar Pradesh,36.27360622476588,Medium
+Gandhinagar ,Gujarat,36.25989544710128,Medium
+Longleng ,Nagaland,36.24160195234292,Medium
+Tuensang ,Nagaland,36.239823562778035,Medium
+Murshidabad ,West Bengal,36.23309095335924,Medium
+Paschim Barddhaman ,West Bengal,36.22925875331658,Medium
+Gadchiroli ,Maharastra,36.18418731692752,Medium
+Golaghat ,Assam,36.17617706193771,Medium
+Bokaro ,Jharkhand,36.08164092620798,Medium
+Sambalpur ,Odisha,36.078834276095634,Medium
+Dausa ,Rajasthan,36.05138676247007,Medium
+Bhavnagar ,Gujarat,36.04152801008306,Medium
+Dhanbad ,Jharkhand,36.03429469414822,Medium
+Mahesana ,Gujarat,36.01357811832573,Medium
+Sehore ,Madhya Pradesh,35.92783164630806,Medium
+Mandla ,Madhya Pradesh,35.92412771037374,Medium
+Azamgarh ,Uttar Pradesh,35.89771837701751,Medium
+East Jantia Hills ,Meghalaya,35.8361085335233,Medium
+Korba ,Chhattisgarh,35.83471598691958,Medium
+Barmer ,Rajasthan,35.825113349931286,Medium
+Jashpur ,Chhattisgarh,35.82267034369231,Medium
+Washim ,Maharastra,35.81761092146435,Medium
+Sultanpur ,Uttar Pradesh,35.815270695719775,Medium
+Khandwa (East Nimar) ,Madhya Pradesh,35.80657302244908,Medium
+Anantapur ,Andhra Pradesh,35.80521284073017,Medium
+Chirang ,Assam,35.782986367263554,Medium
+Cachar ,Assam,35.77870208375263,Medium
+Bulandshahr ,Uttar Pradesh,35.757774773563796,Medium
+Ramgarh ,Jharkhand,35.75572100743224,Medium
+Vikarabad ,Telangana,35.74007858146669,Medium
+Botad ,Gujarat,35.715809156788424,Medium
+Kamareddy ,Telangana,35.694274967761025,Medium
+Uttar Dinajpur ,West Bengal,35.679836646632396,Medium
+Medak ,Telangana,35.67415394973931,Medium
+Osmanabad ,Maharastra,35.66544737243418,Medium
+Dewas ,Madhya Pradesh,35.63661745167808,Medium
+Solapur ,Maharastra,35.59008353520415,Medium
+Warangal Rural ,Telangana,35.585621344590535,Medium
+Bijnor ,Uttar Pradesh,35.558063433226586,Medium
+Nirmal ,Telangana,35.50572577360009,Medium
+Gadag ,Karnataka,35.493856014582526,Medium
+Morigaon ,Assam,35.48595970872673,Medium
+Bellary ,Karnataka,35.484811663058125,Medium
+Ujjain ,Madhya Pradesh,35.43705317154436,Medium
+Koriya ,Chhattisgarh,35.4370315286081,Medium
+Mahasamund ,Chhattisgarh,35.41399262561447,Medium
+Valsad ,Gujarat,35.41000539123783,Medium
+Agra ,Uttar Pradesh,35.38572597832381,Medium
+Betul ,Madhya Pradesh,35.36317529524025,Medium
+Vidisha ,Madhya Pradesh,35.36160973675222,Medium
+Sirohi ,Rajasthan,35.35409896507909,Medium
+Gwalior ,Madhya Pradesh,35.32096552590401,Medium
+Majuli ,Assam,35.31645172212839,Medium
+Datia ,Madhya Pradesh,35.27673562335994,Medium
+East Garo Hills ,Meghalaya,35.23271447391111,Medium
+Raigarh ,Chhattisgarh,35.21988960843733,Medium
+Aurangabad ,Maharastra,35.18286348088964,Medium
+Patna ,Bihar,35.18137323001319,Medium
+Umaria ,Madhya Pradesh,35.172393196244414,Medium
+Deoria ,Uttar Pradesh,35.16869123845663,Medium
+Rajkot ,Gujarat,35.11086860787769,Medium
+Ashoknagar ,Madhya Pradesh,35.06063941361192,Medium
+Thane ,Maharastra,35.03449124352247,Medium
+Karimganj ,Assam,35.01388119829198,Medium
+Bhind ,Madhya Pradesh,35.00209917365961,Medium
+Chandrapur ,Maharastra,35.00152295063168,Medium
+Raigarh ,Maharastra,34.988070876605505,Medium
+Amreli ,Gujarat,34.98473185778507,Medium
+Palghar ,Maharastra,34.97258704749857,Medium
+Ratlam ,Madhya Pradesh,34.95202635353984,Medium
+Gondiya ,Maharastra,34.930001735875365,Medium
+Nagarkurnool ,Telangana,34.927339369196744,Medium
+Surat ,Gujarat,34.903418443441694,Medium
+Paschim Medinipur ,West Bengal,34.84570727931951,Medium
+Faizabad ,Uttar Pradesh,34.837059700156516,Medium
+Mahabubabad ,Telangana,34.82729247577365,Medium
+Gorakhpur ,Uttar Pradesh,34.794984660800445,Medium
+Daman ,Dadra and Nagar Haveli & Daman and Diu,34.78638237812998,Medium
+Sawai Madhopur ,Rajasthan,34.777506069297424,Medium
+Ambedkar Nagar ,Uttar Pradesh,34.72277475709708,Medium
+Junagadh ,Gujarat,34.66565621468486,Medium
+Dharwad ,Karnataka,34.633042397421114,Medium
+Narsimhapur ,Madhya Pradesh,34.631263355555916,Medium
+Ahmadnagar ,Maharastra,34.62758614708791,Medium
+Jayashankar Bhupalapally ,Telangana,34.62554822959053,Medium
+Navsari ,Gujarat,34.59600306011617,Medium
+Balangir ,Odisha,34.51137968134066,Medium
+Churu ,Rajasthan,34.483609635371565,Medium
+Nagaur ,Rajasthan,34.45051760102204,Medium
+Bemetara ,Chhattisgarh,34.44953165248604,Medium
+Morbi ,Gujarat,34.41053334511373,Medium
+Goalpara ,Assam,34.366075343560354,Medium
+Pratapgarh ,Rajasthan,34.36322039974512,Medium
+Tinsukia ,Assam,34.35099177816673,Medium
+Jhalawar ,Rajasthan,34.34808463981014,Medium
+Purbi Singhbhum ,Jharkhand,34.343871053639944,Medium
+Bhadrak ,Odisha,34.28135812632982,Medium
+Ahmadabad ,Gujarat,34.26371639611275,Medium
+Sundargarh ,Odisha,34.213481648427866,Medium
+East Kameng ,Arunachal Pradesh,34.162927299718255,Medium
+Fazilka ,Punjab,34.14544283928231,Medium
+Kalahandi ,Odisha,34.117826567323,Medium
+Kabeerdham ,Chhattisgarh,34.10062709240718,Medium
+Chittaurgarh ,Rajasthan,34.06621392833766,Medium
+Muktsar ,Punjab,34.04743013234345,Medium
+Devbhumi Dwarka ,Gujarat,34.030047441286186,Medium
+Anuppur ,Madhya Pradesh,34.015289675870534,Medium
+Bilaspur ,Himachal Pradesh,33.981647738126746,Medium
+North Garo Hills ,Meghalaya,33.97333083650358,Medium
+Neemuch ,Madhya Pradesh,33.9267918838459,Medium
+Sivasagar ,Assam,33.886522321734326,Medium
+Belgaum ,Karnataka,33.87829515057648,Medium
+Rajgarh ,Madhya Pradesh,33.80357164441481,Medium
+Pali ,Rajasthan,33.80215360480253,Medium
+Amravati ,Maharastra,33.783269284685076,Medium
+Barpeta ,Assam,33.773045814511576,Medium
+Varanasi ,Uttar Pradesh,33.70341083702359,Medium
+Kandhamal ,Odisha,33.673668704906625,Medium
+Nizamabad ,Telangana,33.666330239500354,Medium
+Guna ,Madhya Pradesh,33.665652952434186,Medium
+Upper Subansiri ,Arunachal Pradesh,33.66552867293239,Medium
+Jodhpur ,Rajasthan,33.62877443248951,Medium
+West Garo Hills ,Meghalaya,33.60298163842729,Medium
+Davanagere ,Karnataka,33.59281126592076,Medium
+Baloda Bazar ,Chhattisgarh,33.540701681391894,Medium
+Chamba ,Himachal Pradesh,33.51557668071459,Medium
+Baghpat ,Uttar Pradesh,33.494186854118546,Medium
+Vizianagaram ,Andhra Pradesh,33.47039921800041,Medium
+Raisen ,Madhya Pradesh,33.371580778212035,Medium
+Tonk ,Rajasthan,33.37017026104458,Medium
+Mungeli ,Chhattisgarh,33.3462241423304,Medium
+Bilaspur ,Chhattisgarh,33.3159078346512,Medium
+Janjgir - Champa ,Chhattisgarh,33.298691939452034,Medium
+North Tripura ,Tripura,33.29834550274082,Medium
+Jangoan ,Telangana,33.28787653187796,Medium
+Karur ,Tamil Nadu,33.28682739028302,Medium
+Udalguri ,Assam,33.2775632089996,Medium
+Sangareddy ,Telangana,33.27491027679942,Medium
+Haveri ,Karnataka,33.273818897396524,Medium
+Dhenkanal ,Odisha,33.230922791644154,Medium
+Khargone (West Nimar) ,Madhya Pradesh,33.21553099583738,Medium
+Subarnapur ,Odisha,33.200412930762624,Medium
+Bhandara ,Maharastra,33.178291192111004,Medium
+Pune ,Maharastra,33.12767777563223,Medium
+Pudukkottai ,Tamil Nadu,33.12759553329206,Medium
+Mansa ,Punjab,33.0908535374748,Medium
+Rajsamand ,Rajasthan,33.09015322078764,Medium
+Dibrugarh ,Assam,33.07151854313122,Medium
+Gariyaband ,Chhattisgarh,33.02832750939477,Medium
+Chittoor ,Andhra Pradesh,33.01984965200028,Medium
+Yadadri Bhuvanagiri ,Telangana,32.99947673774986,Medium
+Jaisalmer ,Rajasthan,32.97216411762109,Medium
+Kolhapur ,Maharastra,32.96280866857055,Medium
+Jamnagar ,Gujarat,32.94759223373029,Medium
+Kokrajhar ,Assam,32.93143776356041,Medium
+Peren ,Nagaland,32.90173300277692,Medium
+Chamarajanagar ,Karnataka,32.89636831648485,Medium
+Tumkur ,Karnataka,32.864501825684336,Medium
+Nagapattinam ,Tamil Nadu,32.760982734614075,Medium
+Wardha ,Maharastra,32.754914903542556,Medium
+Sangli ,Maharastra,32.73677614262921,Medium
+Dhar ,Madhya Pradesh,32.722427306972506,Medium
+Shajapur ,Madhya Pradesh,32.69974508626985,Medium
+Bhopal ,Madhya Pradesh,32.621913773435494,Medium
+Jajapur ,Odisha,32.61880929688402,Medium
+Tirap ,Arunachal Pradesh,32.588515659146594,Medium
+Jagitial ,Telangana,32.4893481623657,Medium
+Lucknow ,Uttar Pradesh,32.48458457726639,Medium
+Seoni ,Madhya Pradesh,32.42592019494111,Medium
+Baleshwar ,Odisha,32.42581298924198,Medium
+Dhalai ,Tripura,32.40294774366957,Medium
+Koch Bihar ,West Bengal,32.313777941372656,Medium
+Porbandar ,Gujarat,32.270084684132975,Medium
+Mau ,Uttar Pradesh,32.25981691675307,Medium
+Ranga Reddy ,Telangana,32.23527936942569,Medium
+Nalbari ,Assam,32.208831639187494,Medium
+Ranchi ,Jharkhand,32.206080656888446,Medium
+Tikamgarh ,Madhya Pradesh,32.16988469838252,Medium
+Anugul ,Odisha,32.14934068088604,Medium
+Jhunjhunun ,Rajasthan,32.09353169148259,Medium
+Perambalur ,Tamil Nadu,32.038775208909094,Medium
+South West Garo Hills ,Meghalaya,32.03211006539523,Medium
+Visakhapatnam ,Andhra Pradesh,32.02336506184316,Medium
+Surguja ,Chhattisgarh,32.020135931201345,Medium
+Ratnagiri ,Maharastra,31.975886618030565,Medium
+Balod ,Chhattisgarh,31.934028815556236,Medium
+Y.S.R. ,Andhra Pradesh,31.921491520628344,Medium
+Chikkaballapura ,Karnataka,31.90439649628856,Medium
+Jharsuguda ,Odisha,31.901331862619173,Medium
+Lawngtlai ,Mizoram,31.899050098071452,Medium
+Debagarh ,Odisha,31.86502513081145,Medium
+Akola ,Maharastra,31.67692250871403,Medium
+Namsai ,Arunachal Pradesh,31.665680909350186,Medium
+Chandel ,Manipur,31.593248435929425,Medium
+Chandel ,Mizoram,31.593248435929425,Medium
+Mahe ,Puducherry,31.584225421564152,Medium
+South Garo Hills ,Meghalaya,31.583704081827165,Medium
+Harda ,Madhya Pradesh,31.499672149592143,Medium
+Siddipet ,Telangana,31.436149881529392,Medium
+Udhampur ,Jammu & Kashmir,31.40754060505422,Medium
+Hardwar ,Uttarakhand,31.38877367571865,Medium
+Hanumangarh ,Rajasthan,31.35281381027156,Medium
+Longding ,Arunachal Pradesh,31.348320249779526,Medium
+South Tripura ,Tripura,31.278156337510495,Medium
+Karimnagar ,Telangana,31.214862740007746,Medium
+Kendrapara ,Odisha,31.190414196934995,Medium
+Garhwal ,Uttarakhand,31.094069454312198,Medium
+Suryapet ,Telangana,31.07234724558378,Medium
+Nalgonda ,Telangana,31.06703097246327,Medium
+Dakshin Dinajpur ,West Bengal,31.01858196345053,Medium
+Dibang Valley ,Arunachal Pradesh,30.9352508366437,Medium
+Medchal-Malkajgiri ,Telangana,30.91117144838498,Medium
+Dhemaji ,Assam,30.902332686984604,Medium
+Indore ,Madhya Pradesh,30.880322271230625,Medium
+Sikar ,Rajasthan,30.860076289155,Medium
+Chitradurga ,Karnataka,30.843007447612795,Medium
+Fatehabad ,Haryana,30.805227126666423,Medium
+Mancherial ,Telangana,30.754631724922593,Medium
+Bathinda ,Punjab,30.718621674032583,Medium
+Viluppuram ,Tamil Nadu,30.662449376798946,Medium
+Sri Potti Sriramulu Nello ,Andhra Pradesh,30.654486400755918,Medium
+Warangal Urban ,Telangana,30.63826908033132,Medium
+Satara ,Maharastra,30.58409546362464,Medium
+Central ,NCT of Delhi,30.583765619883028,Medium
+Palwal ,Haryana,30.581206633863353,Medium
+Kolar ,Karnataka,30.573321715574004,Medium
+Rajnandgaon ,Chhattisgarh,30.525833414929266,Medium
+Phek ,Nagaland,30.511861126913374,Medium
+Dima Hasao ,Assam,30.440667392321835,Medium
+Bangalore Rural ,Karnataka,30.440441674977805,Medium
+Muzaffarnagar ,Uttar Pradesh,30.36718687099774,Medium
+Mokokchung ,Nagaland,30.343686935889597,Medium
+Bongaigaon ,Assam,30.321974399177407,Medium
+Rampur ,Uttar Pradesh,30.30232245447501,Medium
+Shimoga ,Karnataka,30.257749762024787,Medium
+Dhamtari ,Chhattisgarh,30.255957057647667,Medium
+Sirsa ,Haryana,30.212730787380956,Medium
+Kanpur Nagar ,Uttar Pradesh,30.189210092427857,Medium
+Malappuram ,Kerala,30.18428055879893,Medium
+Mysore ,Karnataka,30.181940274354748,Medium
+Uttar Bastar Kanker ,Chhattisgarh,30.163713322195857,Medium
+Jalpaiguri ,West Bengal,30.162504654307927,Medium
+Ukhrul ,Manipur,30.109020918634407,Medium
+Moradabad ,Uttar Pradesh,30.101917107162862,Medium
+East Khasi Hills ,Meghalaya,30.09513411491904,Medium
+West ,NCT of Delhi,30.065613426218082,Medium
+Kota ,Rajasthan,30.005246488406996,Medium
+Changlang ,Arunachal Pradesh,29.9546555325449,Medium
+Sepahijala ,Tripura,29.924268010825276,Medium
+Uttara Kannada ,Karnataka,29.909174037100207,Medium
+Kullu ,Himachal Pradesh,29.882526295846347,Medium
+Diu ,Dadra and Nagar Haveli & Daman and Diu,29.84724940059862,Medium
+Karbi Anglong ,Assam,29.828614589153165,Medium
+Lakshadweep , Lakshadweep ,29.716109944322294,Medium
+Sirmaur ,Himachal Pradesh,29.704674539637853,Medium
+Shamli ,Uttar Pradesh,29.69639569410609,Medium
+Faridkot ,Punjab,29.6436320333358,Medium
+Rajanna Sircilla ,Telangana,29.624772981707405,Medium
+Jind ,Haryana,29.607051558911913,Medium
+Hisar ,Haryana,29.580863069566195,Medium
+Hapur ,Uttar Pradesh,29.576362179097938,Medium
+Kolasib ,Mizoram,29.535707868938825,Medium
+Shahdara ,NCT of Delhi,29.52677223702876,Medium
+Lohit ,Arunachal Pradesh,29.50832135534293,Medium
+Nagpur ,Maharastra,29.507078198335012,Medium
+Purba Medinipur ,West Bengal,29.48279130678537,Medium
+Senapati ,Manipur,29.45752990861095,Medium
+Bhiwani ,Haryana,29.38496651861276,Medium
+Kra Daadi ,Arunachal Pradesh,29.383856730627173,Medium
+Durg ,Chhattisgarh,29.371710208324362,Medium
+Bhadradri Kothagudem ,Telangana,29.368653182433214,Medium
+Ajmer ,Rajasthan,29.3630677193714,Medium
+Upper Siang ,Arunachal Pradesh,29.362105839747898,Medium
+Hamirpur ,Himachal Pradesh,29.354629849611328,Medium
+North  District ,Sikkim,29.352035182648855,Medium
+Kaithal ,Haryana,29.321113219866458,Medium
+West District ,Sikkim,29.32038698293436,Medium
+Sindhudurg ,Maharastra,29.319036472826156,Medium
+Ambala ,Haryana,29.31423984970882,Medium
+Tiruchirappalli ,Tamil Nadu,29.2662129624802,Medium
+Madurai ,Tamil Nadu,29.24260178747746,Medium
+Prakasam ,Andhra Pradesh,29.23581414149698,Medium
+Peddapalli ,Telangana,29.220459381479433,Medium
+Serchhip ,Mizoram,29.1749144226735,Medium
+Baksa ,Assam,29.167133752425766,Medium
+Kodagu ,Karnataka,29.118638710278105,Medium
+Kurung Kumey ,Arunachal Pradesh,29.100834824789075,Medium
+East ,NCT of Delhi,29.07594396660763,Medium
+Tawang ,Arunachal Pradesh,29.01284281235645,Medium
+Wokha ,Nagaland,28.90576725077266,Medium
+Anjaw ,Arunachal Pradesh,28.883071922404643,Medium
+Tehri Garhwal ,Uttarakhand,28.853547136957353,Medium
+Srinagar ,Jammu & Kashmir,28.82497396630914,Medium
+Rajouri ,Jammu & Kashmir,28.755343046131244,Medium
+Jaipur ,Rajasthan,28.726658251318835,Medium
+Meerut ,Uttar Pradesh,28.713053987907443,Medium
+Una ,Himachal Pradesh,28.700174032248224,Medium
+Karnal ,Haryana,28.69431862127964,Medium
+Tamenglong ,Manipur,28.645167604239923,Medium
+Wayanad ,Kerala,28.624379663979063,Medium
+Champawat ,Uttarakhand,28.57544747619551,Medium
+Hyderabad ,Telangana,28.565442966938395,Medium
+Mumbai Suburban ,Maharastra,28.53557259899026,Medium
+Papum Pare ,Arunachal Pradesh,28.52322485191209,Medium
+Ramanathapuram ,Tamil Nadu,28.500516376299025,Medium
+Saharanpur ,Uttar Pradesh,28.443570994397497,Medium
+Bhilwara ,Rajasthan,28.43997646656217,Medium
+Gomati ,Tripura,28.40584889752988,Medium
+Kinnaur ,Himachal Pradesh,28.39154787128397,Medium
+Rohtak ,Haryana,28.38757188307973,Medium
+Lower Subansiri ,Arunachal Pradesh,28.360803391332254,Medium
+Udupi ,Karnataka,28.359288949527144,Medium
+Raipur ,Chhattisgarh,28.34960139338576,Medium
+Maldah ,West Bengal,28.224934888955673,Medium
+Solan ,Himachal Pradesh,28.213390920477753,Medium
+Darjiling ,West Bengal,28.16608908537618,Medium
+Hugli ,West Bengal,28.15986618409926,Medium
+East Godavari ,Andhra Pradesh,28.15865185890784,Medium
+Krishna ,Andhra Pradesh,28.13763819992334,Medium
+Almora ,Uttarakhand,28.125476564551317,Medium
+Chamoli ,Uttarakhand,28.120002164176174,Medium
+West Siang ,Arunachal Pradesh,28.06512328665247,Medium
+Ganganagar ,Rajasthan,28.06312085335264,Medium
+Chikmagalur ,Karnataka,28.04279429564861,Medium
+Lunglei ,Mizoram,28.02745506816551,Medium
+Nadia ,West Bengal,27.948136275134107,Medium
+Hassan ,Karnataka,27.875533206908564,Medium
+West Godavari ,Andhra Pradesh,27.798186115558714,Medium
+Vellore ,Tamil Nadu,27.797798955368616,Medium
+Bageshwar ,Uttarakhand,27.791710537289212,Medium
+Gautam Buddha Nagar ,Uttar Pradesh,27.78662273455905,Medium
+Thiruvarur ,Tamil Nadu,27.706120998984098,Medium
+Bangalore ,Karnataka,27.70433685371562,Medium
+Nainital ,Uttarakhand,27.703395672736654,Medium
+Firozpur ,Punjab,27.61284986485192,Medium
+Mamit ,Mizoram,27.565494814164854,Medium
+North & Middle Andaman ,Andaman & Nicobar Islands,27.551853609704434,Medium
+Mandya ,Karnataka,27.533858821848852,Medium
+Tirunelveli ,Tamil Nadu,27.52507389897685,Medium
+North East ,NCT of Delhi,27.509230789171543,Medium
+Udham Singh Nagar ,Uttarakhand,27.506430470257165,Medium
+East Siang ,Arunachal Pradesh,27.46927390105542,Medium
+Churachandpur ,Manipur,27.441362252465243,Medium
+Palakkad ,Kerala,27.37526040343591,Medium
+Pithoragarh ,Uttarakhand,27.335604115346673,Medium
+Baramula ,Jammu & Kashmir,27.327899199806215,Medium
+Champhai ,Mizoram,27.32120905460922,Medium
+West Kameng ,Arunachal Pradesh,27.309045802050356,Medium
+Yamunanagar ,Haryana,27.285546414195682,Medium
+West Tripura ,Tripura,27.26382722055575,Medium
+Barnala ,Punjab,27.254612819403075,Medium
+The Nilgiris ,Tamil Nadu,27.20546586770425,Medium
+Guntur ,Andhra Pradesh,27.176448091412247,Medium
+North Twenty Four Pargana ,West Bengal,27.141581035381254,Medium
+Krishnagiri ,Tamil Nadu,27.136381136422006,Medium
+Dimapur ,Nagaland,27.13063982375827,Medium
+Kamrup ,Assam,27.11317460015985,Medium
+Charkhi Dadri ,Haryana,27.029493492699192,Medium
+Yanam ,Puducherry,27.015227229115695,Medium
+Faridabad ,Haryana,26.946312134259465,Medium
+North West ,NCT of Delhi,26.931185826640107,Medium
+Uttarkashi ,Uttarakhand,26.926063407484012,Medium
+North ,NCT of Delhi,26.921193265157157,Medium
+Sonipat ,Haryana,26.914151060716964,Medium
+Doda ,Jammu & Kashmir,26.9122166166927,Medium
+Kohima ,Nagaland,26.85945940378999,Medium
+Siang ,Arunachal Pradesh,26.821210902756576,Medium
+Thoubal ,Manipur,26.81658503960084,Medium
+Badgam ,Jammu & Kashmir,26.70721265306423,Medium
+Tarn Taran ,Punjab,26.677451528046962,Medium
+South Goa ,Goa,26.632020494712634,Medium
+Kurukshetra ,Haryana,26.55575120102631,Medium
+North Goa ,Goa,26.535181430510974,Medium
+Moga ,Punjab,26.507652813101274,Medium
+Kamrup Metropolitan ,Assam,26.460312173604585,Medium
+Anantnag ,Jammu & Kashmir,26.425928175804966,Medium
+Kangra ,Himachal Pradesh,26.38586794706086,Medium
+South East ,NCT of Delhi,26.338351877062195,Medium
+Kolkata ,West Bengal,26.315975578565062,Medium
+Panipat ,Haryana,26.244204672609282,Medium
+Dharmapuri ,Tamil Nadu,26.188778529944486,Medium
+South West ,NCT of Delhi,26.150249776352997,Medium
+South District ,Sikkim,26.143087692668345,Medium
+Mandi ,Himachal Pradesh,26.13008181384532,Medium
+Dindigul ,Tamil Nadu,26.119685941990095,Medium
+Ghaziabad ,Uttar Pradesh,26.10164689975077,Medium
+Mahendragarh ,Haryana,26.09685275849853,Medium
+New Delhi ,NCT of Delhi,26.094185663056713,Medium
+Namakkal ,Tamil Nadu,26.015558662514387,Medium
+Tiruvannamalai ,Tamil Nadu,26.009474382926218,Medium
+Cuddalore ,Tamil Nadu,25.993110106290214,Medium
+Nicobars,Andaman & Nicobar Islands,25.957162826067236,Medium
+Kulgam ,Jammu & Kashmir,25.936118826581204,Medium
+Haora ,West Bengal,25.932028640486124,Medium
+Rudraprayag ,Uttarakhand,25.90993637529711,Medium
+Kishtwar ,Jammu & Kashmir,25.854520152308332,Medium
+Gurdaspur ,Punjab,25.84793504266192,Medium
+Sangrur ,Punjab,25.829038167817046,Medium
+Aizawl ,Mizoram,25.766161479267442,Medium
+South ,NCT of Delhi,25.764696943168833,Medium
+Idukki ,Kerala,25.74719166938686,Medium
+East District ,Sikkim,25.70323194100018,Medium
+Lahul & Spiti ,Himachal Pradesh,25.642576928524367,Medium
+Salem ,Tamil Nadu,25.637303944179365,Medium
+Theni ,Tamil Nadu,25.48974458143913,Medium
+Ariyalur ,Tamil Nadu,25.483616623546464,Medium
+Cuttack ,Odisha,25.44406583026099,Medium
+Pulwama ,Jammu & Kashmir,25.428333618661487,Medium
+Kathua ,Jammu & Kashmir,25.42330476435979,Medium
+Sivaganga ,Tamil Nadu,25.359659830214163,Medium
+Punch ,Jammu & Kashmir,25.355740118929774,Medium
+Khammam ,Telangana,25.280002734809518,Medium
+Rewari ,Haryana,25.247245308289738,Medium
+Ganjam ,Odisha,25.216071850738377,Medium
+Virudhunagar ,Tamil Nadu,25.17189152442181,Medium
+Leh(Ladakh) ,Ladakh,25.153409785358576,Medium
+Fatehgarh Sahib ,Punjab,25.066149870882683,Medium
+South Andaman ,Andaman & Nicobar Islands,25.032862680206595,Medium
+Ramanagara ,Karnataka,25.014711049247754,Medium
+Mumbai ,Maharastra,25.00875325146486,Medium
+Karaikal ,Puducherry,24.914675164605054,Low
+Amritsar ,Punjab,24.83330908895917,Low
+Shimla ,Himachal Pradesh,24.76149842029405,Low
+Sahibzada Ajit Singh Nagar ,Punjab,24.75969808880511,Low
+Kupwara ,Jammu & Kashmir,24.709866687396424,Low
+Lower Dibang Valley ,Arunachal Pradesh,24.697137589036092,Low
+Thanjavur ,Tamil Nadu,24.683942311091954,Low
+Coimbatore ,Tamil Nadu,24.61114780502973,Low
+Patiala ,Punjab,24.60413055522148,Low
+Dehradun ,Uttarakhand,24.577517154924568,Low
+Jalandhar ,Punjab,24.493850549739776,Low
+Jammu ,Jammu & Kashmir,24.430761820848655,Low
+Kancheepuram ,Tamil Nadu,24.409088860208374,Low
+Shupiyan ,Jammu & Kashmir,24.364333325597528,Low
+South Twenty Four Pargana ,West Bengal,24.349611402124832,Low
+Kapurthala ,Punjab,24.338487659912698,Low
+Kozhikode ,Kerala,24.30799213099213,Low
+Bandipore ,Jammu & Kashmir,24.195062156288426,Low
+Chandigarh,Chandigarh,24.147272183708555,Low
+Thoothukkudi ,Tamil Nadu,24.11972003153808,Low
+Tiruppur ,Tamil Nadu,24.068528551148813,Low
+Dakshina Kannada ,Karnataka,24.05313274099881,Low
+Panchkula ,Haryana,24.013070263767617,Low
+Ganderbal ,Jammu & Kashmir,23.969264346581753,Low
+Samba ,Jammu & Kashmir,23.962780616993317,Low
+Pathanamthitta ,Kerala,23.910735378306914,Low
+Gurgaon ,Haryana,23.835757474517372,Low
+Kasaragod ,Kerala,23.774203646042942,Low
+Ramban ,Jammu & Kashmir,23.770091649997998,Low
+Reasi ,Jammu & Kashmir,23.72568603272466,Low
+Kottayam ,Kerala,23.66177417529298,Low
+Alappuzha ,Kerala,23.54060022716835,Low
+Thiruvallur ,Tamil Nadu,23.521914046843058,Low
+Ludhiana ,Punjab,23.308522848769062,Low
+Srikakulam ,Andhra Pradesh,23.154527979613146,Low
+Kargil ,Ladakh,23.130943406142634,Low
+Erode ,Tamil Nadu,23.03708769939317,Low
+Thrissur ,Kerala,22.815111769144814,Low
+Chennai ,Tamil Nadu,22.788720031978993,Low
+Nayagarh ,Odisha,22.60606237482703,Low
+Pathankot ,Punjab,22.47925650131508,Low
+Puducherry ,Puducherry,22.393033482645297,Low
+Khordha ,Odisha,22.377570226160707,Low
+Thiruvananthapuram ,Kerala,22.14284072679702,Low
+Kanniyakumari ,Tamil Nadu,21.85534270616392,Low
+Ernakulam ,Kerala,21.8349225205357,Low
+Kannur ,Kerala,21.707010001296627,Low
+Jhajjar ,Haryana,21.66556284881792,Low
+Shahid Bhagat Singh Nagar ,Punjab,21.47221793570554,Low
+Bishnupur ,Manipur,21.0799802647329,Low
+Jagatsinghapur ,Odisha,21.052496428859463,Low
+Rupnagar ,Punjab,21.00625710712454,Low
+Hoshiarpur ,Punjab,21.00212598977818,Low
+Imphal West ,Manipur,20.966612783457585,Low
+Imphal East ,Manipur,20.925918668217456,Low
+Kollam ,Kerala,20.909857393915104,Low
+Puri ,Odisha,20.769087525353225,Low
